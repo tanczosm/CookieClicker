@@ -85,7 +85,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\drawable\tanczos-zoey.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CookieClicker\CookieClicker.csproj">
       <Project>{2B2726BB-F934-47CE-9293-E2BC3993E8C8}</Project>

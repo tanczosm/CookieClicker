@@ -132,6 +132,7 @@
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
     <Content Include="cookie.png" />
     <Content Include="Properties\Default.rd.xml" />
+    <Content Include="tanczos-zoey.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
